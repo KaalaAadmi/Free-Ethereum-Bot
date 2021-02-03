@@ -16,8 +16,6 @@ To register [click here](https://freeethereum.com/?ref=132588)
 
 * Paste the path to the webdriver downloaded on your system.
 
-* To Register to the site, [click here](https://freeethereum.com/?ref=132588)
-
 * Change the values of username and password in the code.
 
 * Run the code.
